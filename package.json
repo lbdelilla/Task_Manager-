@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "bootswatch": "^5.2.3",
+    "react-router-dom": "^6.11.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.6"
+  }
+}
